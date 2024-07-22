@@ -2,7 +2,7 @@
   "recettes": [
     {
       "id": "f038",
-      "image": "./src/assets/img/3.png",
+      "image": "../assets/img/3.png",
       "Nom": "Steak végétarien maison",
       "Temps": "14",
       "categories": "Française",
@@ -11,7 +11,7 @@
     },
     {
       "id": "78d8",
-      "image": "./src/assets/img/assiete.png",
+      "image": "../assets/img/assiete.png",
       "Nom": "Moussaka facile",
       "Temps": "55",
       "categories": "Française",
@@ -20,7 +20,7 @@
     },
     {
       "id": "9e0b",
-      "image": "./src/assets/img/5.png",
+      "image": "../assets/img/5.png",
       "Nom": "Filet mignon au Cookeo",
       "Temps": "27",
       "categories": "Française",
@@ -29,7 +29,7 @@
     },
     {
       "id": "4cfd",
-      "image": "./src/assets/img/assiete.png",
+      "image": "../assets/img/assiete.png",
       "Nom": "Truite en papillote au four",
       "Temps": "30",
       "categories": "Française",
@@ -38,7 +38,7 @@
     },
     {
       "id": "2c7f",
-      "image": "./src/assets/img/assiete.png",
+      "image": "../assets/img/assiete.png",
       "Nom": "Fèves au thym",
       "Temps": "30",
       "categories": "Portugaise",
@@ -47,7 +47,7 @@
     },
     {
       "id": "2f16",
-      "image": "./src/assets/img/assiete.png",
+      "image": "../assets/img/assiete.png",
       "Nom": "Ramen au poulet",
       "Temps": "40",
       "categories": "Asiatique",
@@ -56,7 +56,7 @@
     },
     {
       "id": "3da6",
-      "image": "./src/assets/img/7.png",
+      "image": "../assets/img/7.png",
       "Nom": "Rosbeef au four à l ail",
       "Temps": "30",
       "categories": "Portugaise",
@@ -65,7 +65,7 @@
     },
     {
       "id": "d699",
-      "image": "./src/assets/img/6.png",
+      "image": "../assets/img/6.png",
       "Nom": "Poulpe grillé",
       "Temps": "300",
       "categories": "Asiatique",
@@ -74,7 +74,7 @@
     },
     {
       "id": "11c5",
-      "image": "./src/assets/img/7.png",
+      "image": "../assets/img/7.png",
       "Nom": "fefe",
       "Temps": "23",
       "categories": "Portugaise",
